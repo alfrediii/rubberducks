@@ -1,0 +1,9 @@
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe.config
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.pdb
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.csprojAssemblyReference.cache
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart1Form.resources
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.csproj.GenerateResource.cache
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.exe
+T:\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.pdb

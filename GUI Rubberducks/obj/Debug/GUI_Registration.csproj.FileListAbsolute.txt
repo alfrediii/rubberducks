@@ -1,0 +1,132 @@
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart1Form.resources
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart2Form.resources
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI Registration form Part 1\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\Home\Desktop\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart1Form.resources
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart2Form.resources
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart1Form.resources
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.RegistrationPart2Form.resources
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI registration form fromatting better\GUI_Registration_p1\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI_Registration_p1 2\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\Home\Desktop\GUI_Registration_p1 2\bin\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI_Registration_p1 2\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration_p1.RegistrationPart1Form.resources
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration_p1.RegistrationPart2Form.resources
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI_Registration_p1 2\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI_Registration_p1 2\bin\Debug\rubberDuckDatabase.mdf
+\\Mac\Home\Desktop\GUI_Registration_p1 2\bin\Debug\rubberDuckDatabase_log.ldf
+\\Mac\Home\Desktop\GUI Rubberducks\bin\Debug\rubberDuckDatabase.mdf
+\\Mac\Home\Desktop\GUI Rubberducks\bin\Debug\rubberDuckDatabase_log.ldf
+\\Mac\Home\Desktop\GUI Rubberducks\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\Home\Desktop\GUI Rubberducks\bin\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI Rubberducks\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\RubberDucksLoginForm.EmployeeLoginForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration.RegistrationPart1Form.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration.RegistrationPart2Form.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.SplashPage.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\bin\Debug\rubberDuckDatabase.mdf
+\\Mac\jgattuso\SE361\GUI Rubberducks\bin\Debug\rubberDuckDatabase_log.ldf
+\\Mac\jgattuso\SE361\GUI Rubberducks\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\jgattuso\SE361\GUI Rubberducks\bin\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI Rubberducks\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\RubberDucksLoginForm.EmployeeLoginForm.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.AdminActivationandEditing.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration.RegistrationPart1Form.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration.RegistrationPart2Form.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.SplashPage.resources
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.exe
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\jgattuso\SE361\GUI Rubberducks\obj\Debug\GUI_Registration_p1.Test.resources
+\\Mac\Home\Desktop\SE361\GUI Rubberducks CURRENT32320\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\SE361\GUI Rubberducks CURRENT32320\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration.TicketCreationForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.FAQForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.ProfileForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.ReportForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.AdminInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.ITSupportInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.ProjectMemberInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.ReportManagerInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.TicketForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks\obj\Debug\GUI_Registration_p1.AdminUserControlForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\RubberDucksLoginForm.EmployeeLoginForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.AdminUserControlForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.AdminInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.FAQForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.ITSupportInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.ProfileForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.ReportForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.ProjectMemberInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration.RegistrationPart1Form.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration.RegistrationPart2Form.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.ReportManagerInterfaceForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.SplashPage.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration.TicketCreationForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.TicketForm.resources
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\obj\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\bin\Debug\rubberDuckDatabase.mdf
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\bin\Debug\rubberDuckDatabase_log.ldf
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\bin\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\GUI Rubberducks (Jen)\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\Rubberducks Final\bin\Debug\rubberDuckDatabase.mdf
+\\Mac\Home\Desktop\Rubberducks Final\bin\Debug\rubberDuckDatabase_log.ldf
+\\Mac\Home\Desktop\Rubberducks Final\bin\Debug\GUI_Registration_p1.exe.config
+\\Mac\Home\Desktop\Rubberducks Final\bin\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\Rubberducks Final\bin\Debug\GUI_Registration_p1.pdb
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\RubberDucksLoginForm.EmployeeLoginForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.AdminUserControlForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.AdminInterfaceForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.FAQForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.ITSupportInterfaceForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.ProfileForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.ReportForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.ProjectMemberInterfaceForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration.RegistrationPart1Form.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration.RegistrationPart2Form.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.Properties.Resources.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.ReportManagerInterfaceForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.SplashPage.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration.TicketCreationForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.TicketForm.resources
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.exe
+\\Mac\Home\Desktop\Rubberducks Final\obj\Debug\GUI_Registration_p1.pdb
